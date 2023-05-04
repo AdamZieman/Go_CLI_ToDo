@@ -41,10 +41,15 @@ To run this program, you will need Go installed on your system. You can download
 <h2>Usage</h2>
 Upon running the program, the user will be presented with the current task list (or an empty task list, if the task list is empty) and the available options:
 
-
-
 ![OptionsMenu_EmptyList](https://user-images.githubusercontent.com/96446640/236118835-15f89bcd-f41d-4ced-999b-8af934860fe7.png)
 
-
-
 To select an option, the user should enter the corresponding number and return. The program will then execute the selected option and loop back to the beginning.
+
+<br>
+
+
+<!-- Adding a Task -->
+<h2>Adding a Task</h2>
+To add a new task to the list, select option 1 and enter a task description when prompted:
+
+
