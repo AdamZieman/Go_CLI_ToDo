@@ -93,3 +93,9 @@ To clear all tasks from the list, select option 3:
 ![ClearingTaskList](https://user-images.githubusercontent.com/96446640/236123065-76a62452-7914-4940-93f3-0d50237cc23b.png)
 
 <br>
+
+
+<!-- Exiting the Program -->
+<h2>Exiting the Program</h2>
+To exit the program, select option 4:
+
