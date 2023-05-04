@@ -58,6 +58,9 @@ To add a new task to the list, select option 1 and enter a task description when
   <li>
     Does not add task to the list if an empty task description is entered.
   </li>
+  <li>
+    Attempts to overwrite "tasks.txt" with an updated task list.
+  </li>
 </ul>
 
 <br>
@@ -81,6 +84,9 @@ To delete a task from the list, select option 2 and enter the task ID when promp
       If it exists, remove the task from the list and reorder the task ID.
     </li>
   </ul>
+  <li>
+    If successful, attempt to overwrite "tasks.txt" file with an updated task list.
+  </li>
 </ul>
 
 <br>
@@ -91,6 +97,12 @@ To delete a task from the list, select option 2 and enter the task ID when promp
 To clear all tasks from the list, select option 3:
 
 ![ClearingTaskList](https://user-images.githubusercontent.com/96446640/236123065-76a62452-7914-4940-93f3-0d50237cc23b.png)
+
+<ul>
+  <li>
+    Attempts to overwrite "task.txt" file with an empty task list.
+  </li>
+</ul>
 
 <br>
 
