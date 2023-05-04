@@ -54,6 +54,12 @@ To add a new task to the list, select option 1 and enter a task description when
 
 ![AddingTask](https://user-images.githubusercontent.com/96446640/236120285-332f27bb-3619-4d88-9aa2-14d92dea6826.png)
 
+<ul>
+  <li>
+    Does not add task to the list if an empty task description is entered.
+  </li>
+</ul>
+
 <br>
 
 
