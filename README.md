@@ -53,3 +53,12 @@ To select an option, the user should enter the corresponding number and return. 
 To add a new task to the list, select option 1 and enter a task description when prompted:
 
 ![AddingTask](https://user-images.githubusercontent.com/96446640/236120285-332f27bb-3619-4d88-9aa2-14d92dea6826.png)
+
+<br>
+
+
+<!-- Deleting a Task -->
+<h2>Deleting a Task</h2>
+To delete a task from the list, select option 2 and enter the task ID when prompted:
+
+
