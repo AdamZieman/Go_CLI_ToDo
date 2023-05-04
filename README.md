@@ -78,7 +78,7 @@ To delete a task from the list, select option 2 and enter the task ID when promp
   </li>
   <ul>
     <li>
-      If it exists, remove the task from the list and reorder the task ID
+      If it exists, remove the task from the list and reorder the task ID.
     </li>
   </ul>
 </ul>
