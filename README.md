@@ -99,3 +99,4 @@ To clear all tasks from the list, select option 3:
 <h2>Exiting the Program</h2>
 To exit the program, select option 4:
 
+![ExitingProgram](https://user-images.githubusercontent.com/96446640/236123596-a3b7379e-5ade-4714-a5d6-bdf452a558e8.png)
