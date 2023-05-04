@@ -67,4 +67,18 @@ To add a new task to the list, select option 1 and enter a task description when
 <h2>Deleting a Task</h2>
 To delete a task from the list, select option 2 and enter the task ID when prompted:
 
+![DeletingTask](https://user-images.githubusercontent.com/96446640/236121606-610071be-1d89-4f92-824a-d06248e8807f.png)
 
+<ul>
+  <li>
+    Checks if there are any tasks to delete.
+  </li>
+  <li>
+    Iterates over the task list to check if the task ID exists.
+  </li>
+  <ul>
+    <li>
+      If it exists, remove the task from the list and reorder the task ID
+    </li>
+  </ul>
+</ul>
