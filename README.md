@@ -82,3 +82,12 @@ To delete a task from the list, select option 2 and enter the task ID when promp
     </li>
   </ul>
 </ul>
+
+<br>
+
+
+<!-- Clearing the Task List -->
+<h2>Clearing the Task List</h2>
+To clear all tasks from the list, select option 3:
+
+
