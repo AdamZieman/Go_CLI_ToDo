@@ -90,4 +90,6 @@ To delete a task from the list, select option 2 and enter the task ID when promp
 <h2>Clearing the Task List</h2>
 To clear all tasks from the list, select option 3:
 
+![ClearingTaskList](https://user-images.githubusercontent.com/96446640/236123065-76a62452-7914-4940-93f3-0d50237cc23b.png)
 
+<br>
