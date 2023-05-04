@@ -38,6 +38,7 @@ To run this program, you will need Go installed on your system. You can download
 
 
 <!-- Usage -->
+<h2>Usage</h2>
 Upon running the program, the user will be presented with the current task list (or an empty task list, if the task list is empty) and the available options:
 
 To select an option, the user should enter the corresponding number and return. The program will then execute the selected option and loop back to the beginning.
