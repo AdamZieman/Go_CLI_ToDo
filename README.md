@@ -52,4 +52,4 @@ To select an option, the user should enter the corresponding number and return. 
 <h2>Adding a Task</h2>
 To add a new task to the list, select option 1 and enter a task description when prompted:
 
-
+![AddingTask](https://user-images.githubusercontent.com/96446640/236120285-332f27bb-3619-4d88-9aa2-14d92dea6826.png)
