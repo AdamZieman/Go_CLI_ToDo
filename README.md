@@ -19,15 +19,12 @@ To run this program, you will need Go installed on your system. You can download
 
 <!-- Installation -->
 <h2>Installation</h2>
-<ol>
-  <li>Clone the repository.</li>
-  <li>(Optional) In the terminal, traverse to the project directory.</li>
-  <li>Run the following command: go run todolist.go</li>
-  <ul>
-    <li>If terminal's working directory is not the project directory, replace filename 'todolist.go' with file path.</li>
-  </ul>
-</ol>
 
+- Clone the repository.
+- (Optional) In the terminal, traverse to the project directory.
+- Run the following command: go run todolist.go.
+  - If terminal's working directory is not the project directory, replace filename 'todolist.go' with file path.
+  
 <br>
 
 
@@ -44,10 +41,10 @@ Upon running the program, the user will be presented with the current task list 
 <!-- Adding a Task -->
 <h2>Adding a Task</h2>
 To add a new task to the list, select option 1 and enter a task description when prompted.
-<ul>
-  <li>Does not add task to the list if an empty task description is entered.</li>
-  <li>Attempts to overwrite "tasks.txt" with an updated task list.</li>
-</ul>
+
+- Does not add task to the list if an empty task description is entered.
+- Attempts to overwrite "tasks.txt" with an updated task list.
+
 <br>
 
 ![AddingTask](https://user-images.githubusercontent.com/96446640/236120285-332f27bb-3619-4d88-9aa2-14d92dea6826.png)
@@ -59,14 +56,12 @@ To add a new task to the list, select option 1 and enter a task description when
 <!-- Deleting a Task -->
 <h2>Deleting a Task</h2>
 To delete a task from the list, select option 2 and enter the task ID when prompted.
-<ul>
-  <li>Checks if there are any tasks to delete.</li>
-  <li>Iterates over the task list to check if the task ID exists.</li>
-  <ul>
-    <li>If it exists, remove the task from the list and reorder the task ID.</li>
-  </ul>
-  <li>If successful, attempt to overwrite "tasks.txt" file with an updated task list.</li>
-</ul>
+
+- Checks if there are any tasks to delete.
+- Iterates over the task list to check if the task ID exists.
+  - If it exists, remove the task from the list and reorder the task ID.
+- If successful, attempt to overwrite "tasks.txt" file with an updated task list.
+
 <br>
 
 ![DeletingTask](https://user-images.githubusercontent.com/96446640/236121606-610071be-1d89-4f92-824a-d06248e8807f.png)
@@ -78,9 +73,9 @@ To delete a task from the list, select option 2 and enter the task ID when promp
 <!-- Clearing the Task List -->
 <h2>Clearing the Task List</h2>
 To clear all tasks from the list, select option 3.
-<ul>
-  <li>Attempts to overwrite "task.txt" file with an empty task list.</li>
-</ul>
+
+- Attempts to overwrite "task.txt" file with an empty task list.
+
 <br>
 
 ![ClearingTaskList](https://user-images.githubusercontent.com/96446640/236123065-76a62452-7914-4940-93f3-0d50237cc23b.png)
