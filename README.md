@@ -1,4 +1,4 @@
-<h1>CLI To-Do List Manager</h1>
+<h1>To-Do List Manager</h1>
 
 
 
